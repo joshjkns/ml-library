@@ -8,7 +8,7 @@ basic structure - neural network made up of layers which are made up of 2 matric
 
 compile command: `gcc main.c matrix.c layer.c nn.c -o main`
 
-run command: `.\main`
+run command: `./main`
 
 ## inspiration
 
